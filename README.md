@@ -9,7 +9,9 @@
 
 * [新浪微博](http://weibo.com/2341022377) 
 * [博客](http://blog.libnav.com)
+* [知乎](http://www.zhihu.com/people/xiaobeicn)
 * [SegmentFault](http://segmentfault.com/u/xiaobeicn)
+* [V2EX](http://www.v2ex.com/member/xiaobeicn)
 * [Github](https://github.com/xiaobeicn) 
 * [AboutMe](http://about.me/xiaobeicn) 
 * [Facebook](https://www.facebook.com/xiaobeicn) 
